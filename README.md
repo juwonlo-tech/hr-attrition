@@ -1,5 +1,6 @@
 # hr-attrition
-HR Attrition Rate Analytics Dashboard with Apache Superset
+HR Attrition Rate Analytics Dashboard with Apache Superset. 
+Apache superset is an open-source BI tool used to create visualizations and charts that can be integrated into an organization's platform.
 
 # Overview
 This dashboard provides insights into employee attrition trends and influencing factors within the organization:
